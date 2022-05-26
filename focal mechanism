@@ -1,4 +1,0 @@
-from obspy.imaging.beachball import beachball
-mt2 = [150, 87, 1]
-beachball(mt2)
-print("OK")
